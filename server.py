@@ -1,5 +1,7 @@
+
 from bottle import route, run, template
 from requests_html import HTMLSession
+
 
 TEMPLATE = """
 <style>
